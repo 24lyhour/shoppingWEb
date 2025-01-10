@@ -6,14 +6,16 @@ body{
     padding: 0%;
     /* background-color: rgb(212, 211, 211); */
     /* background-image: linear-gradient(to right top, #051937, #1f2c6b, #53399d, #963cc7, #e427e5); */
-     background-image: linear-gradient(to right top, #051937, #14355f, #205489, #2775b6, #2799e5); 
+/*      background-image: linear-gradient(to right top, #051937, #14355f, #205489, #2775b6, #2799e5);  */
+    background-color:#D1D0CE;
 }
 nav{
     display: flex;
     justify-content: space-between;
     /* background-color: rgb(1, 1, 21); */
     /* background-image: linear-gradient(to right top, #051937, #1f2c6b, #53399d, #963cc7, #e427e5); */
-   background-image: linear-gradient(to right top, #051937, #14355f, #205489, #2775b6, #2799e5); 
+/*    background-image: linear-gradient(to right top, #051937, #14355f, #205489, #2775b6, #2799e5);  */
+    background-color:#657383;
 
 
     color: white;
